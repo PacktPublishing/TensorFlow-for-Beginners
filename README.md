@@ -29,7 +29,3 @@ N/A
 * [Hands-On TensorFlow for Smart Application Development [Video]](https://www.packtpub.com/application-development/hands-tensorflow-smart-application-development-video)
 
 * [Implementing Deep Learning Algorithms with TensorFlow 2.0 [Video]](https://www.packtpub.com/big-data-and-business-intelligence/implementing-deep-learning-algorithms-tensorflow-20-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789344288">https://packt.link/free-ebook/9781789344288 </a> </p>
